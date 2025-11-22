@@ -1,12 +1,12 @@
-"# 👨‍💻 GA04 – Môn Phát triển Ứng Dụng Web
+"# GA04 – Môn Phát triển Ứng Dụng Web
 
-## 🏠 Trường Đại học Khoa học Tự nhiên – ĐHQG TPHCM
+## Trường Đại học Khoa học Tự nhiên – ĐHQG TPHCM
 
 **Chuyên ngành:** Kỹ Thuật Phần Mềm
 
 ---
 
-## 👥 Thành viên Nhóm
+## Thành viên Nhóm
 
 | STT | Họ và Tên              | MSSV     |
 | --- | ---------------------- | -------- |
