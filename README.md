@@ -1,4 +1,4 @@
-"# GA04 – Môn Phát triển Ứng Dụng Web
+## GA04 – Môn Phát triển Ứng Dụng Web
 
 ## Trường Đại học Khoa học Tự nhiên – ĐHQG TPHCM
 
